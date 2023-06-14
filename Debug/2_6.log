@@ -1,0 +1,3 @@
+﻿  Functions.c
+C:\Users\burla\source\repos\2_6\Functions.c(108,17): warning C4098: OpenBMPFile: функция типа "void", возвращающая значение
+  2_6.vcxproj -> C:\Users\burla\source\repos\2_6\Debug\2_6.exe
